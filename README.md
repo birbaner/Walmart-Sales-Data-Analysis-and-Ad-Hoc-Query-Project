@@ -7,13 +7,13 @@ This repository is ideal for data analysts aiming to develop skills in data mani
 
 # Project Steps
 
-# 1. Set Up the Environment
+# 1.Set Up the Environment
 
 * Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
 
 * Goal: Create a structured workspace in VS Code, organizing project folders for smooth development and data handling.
 
-#2. Set Up Kaggle API
+# 2.Set Up Kaggle API
 
 * API Setup: Obtain your Kaggle API token from Kaggle.
 
@@ -23,7 +23,7 @@ This repository is ideal for data analysts aiming to develop skills in data mani
 
       * Use the command kaggle datasets download -d <dataset-path> to download datasets.
 
-#3. Download Walmart Sales Data
+# 3.Download Walmart Sales Data
 
 * Data Source: Use Kaggle API to download the Walmart sales dataset.
 
