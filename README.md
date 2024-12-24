@@ -91,7 +91,7 @@ Answer critical business questions by writing and executing SQL queries.
 
 * Python Libraries:
 
-      * pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
+      *pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2*
 
 * Kaggle API Key
 
@@ -112,12 +112,19 @@ Answer critical business questions by writing and executing SQL queries.
 * Trends in ratings, payment preferences, and peak shopping hours.
 
 # Project Directory Structure
+
 Walmart-Data-Analysis/
+
 ├── data/
+
 ├── notebooks/
+
 ├── sql_queries/
+
 ├── README.md
+
 ├── requirements.txt
+
 
 # How to Run
 
