@@ -1,4 +1,7 @@
 # Walmart Sales Data Analysis and Ad-Hoc Query Project
+
+![Pipeline Visualization](https://github.com/birbaner/Walmart-Sales-Data-Analysis-and-Ad-Hoc-Query-Project/blob/84ffc49eb0258b61f3567bbc95444e6d5f336518/walmart_project-piplelines.png)
+
 # Project Overview
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. Using Python for data processing and analysis, PLSQL and MySQL for advanced querying, and structured problem-solving techniques, we address key business questions to help improve Walmart's operations.
