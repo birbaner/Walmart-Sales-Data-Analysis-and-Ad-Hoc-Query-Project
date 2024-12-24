@@ -91,7 +91,7 @@ Answer critical business questions by writing and executing SQL queries.
 
 * Python Libraries:
 
-      *pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2*
+      pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 
 * Kaggle API Key
 
